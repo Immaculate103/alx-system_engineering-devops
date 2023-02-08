@@ -8,3 +8,4 @@
 8. Task 7 involves moving the file betty from /tmp/ to /tmp/my_first_directory
 9. Task 8 involves deleting the file betty
 10. Task 9 involves deleting the directory my_first_directory that is in the /tmp directory
+11. Task 10 involves writing a script that changes the working directory to the previous one
