@@ -6,3 +6,4 @@
 6. Task 5 involves displaying current directory contents in long format, with user and group IDs displayed numerically, and with hidden files (starting with .)
 7. Task 6 involves creating a a script that creates a directory named my_first_directory in the /tmp/ directory
 8. Task 7 involves moving the file betty from /tmp/ to /tmp/my_first_directory
+9. Task 8 involves deleting the file betty
