@@ -12,10 +12,6 @@
 12. Task 11 involves writing a a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 13. Task 12 involves writing a script that prints the type of the file named iamafile.
 14. Task 13 involves creating a symbolic link to /bin/ls, named __ls__
-15. Task 14 involves creating a script that copies all the HTML files from the current working directory to the parent of the working directory 
-15. 
-16. 
-17. 
-18.
-19.
+15. Task 14 involves creating a script that copies all the HTML files from the current working directory to the parent of the working directory
+16. Task 15 involves creating a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
 
