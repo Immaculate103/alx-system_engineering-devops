@@ -11,7 +11,7 @@
 11. Task 10 involves writing a script that changes the working directory to the previous one
 12. Task 11 involves writing a a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 13. Task 12 involves writing a script that prints the type of the file named iamafile.
-14. 
+14. Task 13 involves creating a symbolic link to /bin/ls, named __ls__ 
 15. 
 16. 
 17. 
