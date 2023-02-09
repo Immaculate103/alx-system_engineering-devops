@@ -3,3 +3,4 @@
 3. Task 2 highlights the script that prints all the groups the current user is part of.
 4. Task 3 highlights the script that changes the owner of the file hello to the user betty.
 5. Task 4 highlights  a script that creates an empty file called hello.
+6. Task 5 highlights a script that adds execute permission to the owner of the file hello.
