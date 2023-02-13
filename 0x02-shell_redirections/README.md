@@ -10,4 +10,5 @@
 10. Task 9 highlights a script that duplicates the last line of the file iacta.
 11. Task 10 highlights a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 12. Task 11 highlights a script counts the number of directories and sub-directories in the current directory not including the current and parent directories but putting into account the hidden directories.
-13. Task 12 highlights a script that displays the 10 newest files in the current directory.One file per line; Sorted from the newest to the oldest 
+13. Task 12 highlights a script that displays the 10 newest files in the current directory.One file per line; Sorted from the newest to the oldest.
+14. Task 14 highlights lines containing the pattern “root” from the file /etc/passwd. 
